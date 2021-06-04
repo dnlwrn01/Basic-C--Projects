@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
