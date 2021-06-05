@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\bin\Debug\LoopsPractice.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\bin\Debug\LoopsPractice.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\bin\Debug\LoopsPractice.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.pdb
