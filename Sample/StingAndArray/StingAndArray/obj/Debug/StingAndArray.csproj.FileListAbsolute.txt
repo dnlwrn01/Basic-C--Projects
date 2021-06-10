@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\obj\Debug\StingAndArray.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\obj\Debug\StingAndArray.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\bin\Debug\StingAndArray.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\bin\Debug\StingAndArray.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\bin\Debug\StingAndArray.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\obj\Debug\StingAndArray.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\StingAndArray\StingAndArray\obj\Debug\StingAndArray.pdb

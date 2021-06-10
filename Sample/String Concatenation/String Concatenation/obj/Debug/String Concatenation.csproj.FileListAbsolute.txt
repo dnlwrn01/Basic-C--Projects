@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\bin\Debug\String Concatenation.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\bin\Debug\String Concatenation.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\bin\Debug\String Concatenation.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\obj\Debug\String Concatenation.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\obj\Debug\String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\obj\Debug\String Concatenation.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\String Concatenation\String Concatenation\obj\Debug\String Concatenation.pdb
