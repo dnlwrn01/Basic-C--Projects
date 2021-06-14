@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\bin\Debug\MoreMethods.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\bin\Debug\MoreMethods.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\bin\Debug\MoreMethods.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\obj\Debug\MoreMethods.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\obj\Debug\MoreMethods.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MoreMethods\MoreMethods\obj\Debug\MoreMethods.pdb
