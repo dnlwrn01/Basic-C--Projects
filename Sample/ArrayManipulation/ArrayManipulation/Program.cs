@@ -70,37 +70,30 @@ namespace ArrayManipulation
             //declare list of names
             var name = new List<string>() { "Tom", "Jeremy", "Barb", "Pam", "Doug", "McHalighey", "Tom" };
 
-            bool search2 = true;
-            bool found2 = false;
+            var multiples = new List<string>() { };
 
-            //loop to continue search
-            while (search2)
+            //display prompt
+            Console.WriteLine("\nNames:");
+            foreach (string i in name)
             {
-                //user input
-                Console.WriteLine("Search a name:");
-                string userName = Console.ReadLine();
-
-                //check if search is in list
-                foreach (string i in name)
-                {
-                    if (userName == i)
-                    {
-                        Console.WriteLine(i.IndexOf(i));
-                        found2 = true;
-                    }
-                }
-
-                //check if found or value is not in list
-                if (found2)
-                {
-                    search2 = false;
-                }
-                else if (!found2)
-                {
-                    Console.WriteLine("This name is not currently in the list. Try Again.");
-                    search2 = true;
-                }
+                Console.WriteLine(i);
             }
+
+            //check if search is in list
+            foreach (string i in name)
+            {
+                foreach (string j in multiples)
+                {
+                    if (j == i)
+                    {
+                        Console.WriteLine("Duplicate: " + i + " is a duplicate value.");
+                    }
+
+                }
+                multiples.Add(i);
+            }
+
+
             Console.Read();
         }
     }

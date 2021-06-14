@@ -5,3 +5,10 @@ C:\Users\dnlwr\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayM
 C:\Users\dnlwr\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csproj.CoreCompileInputs.cache
 C:\Users\dnlwr\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.exe
 C:\Users\dnlwr\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\bin\Debug\ArrayManipulation.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ArrayManipulation\ArrayManipulation\obj\Debug\ArrayManipulation.pdb
