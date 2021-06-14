@@ -5,3 +5,10 @@ C:\Users\dnlwr\source\repos\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBloc
 C:\Users\dnlwr\source\repos\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.csproj.CoreCompileInputs.cache
 C:\Users\dnlwr\source\repos\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.exe
 C:\Users\dnlwr\source\repos\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\bin\Debug\TryCatchBlocks.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\bin\Debug\TryCatchBlocks.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\bin\Debug\TryCatchBlocks.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchBlocks\TryCatchBlocks\obj\Debug\TryCatchBlocks.pdb

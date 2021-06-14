@@ -23,7 +23,7 @@ namespace TryCatchBlocks
 
             //prompt for userNum
             Console.WriteLine("Enter a number of your choice and each list item will be divided by it.");
-            
+
 
 
             //try catch for userNum error check
@@ -39,22 +39,6 @@ namespace TryCatchBlocks
                     results.Add(quotient);
                 }
 
-            }
-
-            //exceptions 
-            catch (DivideByZeroException)
-            {
-                Console.WriteLine("Cannot divide numbers by 0.");
-                return;
-
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Not a valid number.");
-                return;
-            }
-            finally
-            {
                 //result prompt
                 Console.WriteLine("These are the results!");
 
@@ -63,12 +47,25 @@ namespace TryCatchBlocks
                 {
                     Console.WriteLine(result);
                 }
+
             }
 
+            //exceptions 
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("Cannot divide numbers by 0.");
 
+
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Not a valid number.");
+
+            }
+
+            Console.WriteLine("DONE!");
             Console.Read();
 
-            //user input
 
         }
     }
