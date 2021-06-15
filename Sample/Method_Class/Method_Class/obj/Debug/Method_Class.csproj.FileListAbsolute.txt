@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\bin\Debug\Method_Class.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\bin\Debug\Method_Class.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\bin\Debug\Method_Class.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\obj\Debug\Method_Class.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\obj\Debug\Method_Class.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\obj\Debug\Method_Class.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Method_Class\Method_Class\obj\Debug\Method_Class.pdb
