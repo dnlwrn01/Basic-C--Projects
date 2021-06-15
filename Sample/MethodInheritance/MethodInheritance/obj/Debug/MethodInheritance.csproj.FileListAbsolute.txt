@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\bin\Debug\MethodInheritance.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\bin\Debug\MethodInheritance.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\bin\Debug\MethodInheritance.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\obj\Debug\MethodInheritance.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\obj\Debug\MethodInheritance.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\obj\Debug\MethodInheritance.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\MethodInheritance\MethodInheritance\obj\Debug\MethodInheritance.pdb
