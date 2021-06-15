@@ -8,9 +8,10 @@ namespace Methods3
 {
     class Math
     {
-        public static void DisplayPromt()
+        public static void DisplayPrompt(out string name)
         {
-            Console.WriteLine("WELCOME TO THIS");
+            name = Convert.ToString(Console.ReadLine());
+            Console.WriteLine("WELCOME {0}", name);
             Console.WriteLine("Enter a number:");
         }
 

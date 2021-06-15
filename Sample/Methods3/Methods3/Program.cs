@@ -13,7 +13,10 @@ namespace Methods3
 
             Math math = new Math();
 
-            Math.DisplayPromt();
+            Console.WriteLine("What is your name?");
+            string name;
+
+            Math.DisplayPrompt(out name);
 
             int userNum = Convert.ToInt32(Console.ReadLine());
 
