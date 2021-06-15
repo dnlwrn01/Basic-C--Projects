@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\bin\Debug\Methods3.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\bin\Debug\Methods3.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\bin\Debug\Methods3.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\obj\Debug\Methods3.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\obj\Debug\Methods3.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Methods3\Methods3\obj\Debug\Methods3.pdb
