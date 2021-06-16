@@ -8,7 +8,8 @@ namespace AbstractClasses
 {
     interface IQuittable
     {
-        void Quit(Person person);
+        //define interface method
+        void Quit();
         
     }
 }

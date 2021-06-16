@@ -16,6 +16,12 @@ namespace AbstractClasses
             base.SayName();
         }
 
+        //define quit() method
+        public void Quit()
+        {
+            Console.WriteLine("I Quit");
+        }
+
 
 
     }

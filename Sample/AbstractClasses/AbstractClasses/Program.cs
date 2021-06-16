@@ -10,15 +10,13 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            //instantiate employee class
-            Employee employee = new Employee();
+            //instantiate classes
+            IQuittable employee = new Employee();
+            IQuittable person = new Person();
 
-            //set values
-            employee.fName = "Sample";
-            employee.lName = "Student";
-
-            //call method
-            employee.SayName();
+            //calling on object method
+            employee.Quit();
+            person.Quit();
 
 
             Console.Read();

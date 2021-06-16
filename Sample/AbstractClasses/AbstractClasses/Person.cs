@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClasses
 {
-    public abstract class Person
+    public class Person : IQuittable
     {
         //define properties
         public string fName { get; set; }
@@ -16,6 +16,12 @@ namespace AbstractClasses
         public virtual void SayName()
         {
            
+        }
+
+        //define quit() method
+        public void Quit()
+        {
+            Console.WriteLine("Person has quit.");
         }
         
     }
