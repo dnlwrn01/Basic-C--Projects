@@ -10,12 +10,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            Player player = new Player();
-            game.Players = new List<Player>();
-            player.Name = "Dan";
-            game += player;
-            game -= player;
+            //Player<Card> player = new Player<Card>();
+            //player.Hand = new List<Card>();
+
 
 
             Deck deck = new Deck();
@@ -32,7 +29,7 @@ namespace TwentyOne
             Console.Read();
         }
 
-       
+
 
         //public static Deck Shuffle(Deck deck, int times)
         //{

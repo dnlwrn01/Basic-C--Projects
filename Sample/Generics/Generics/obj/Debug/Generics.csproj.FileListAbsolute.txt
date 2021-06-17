@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Generics\Generics\obj\Debug\Generics.pdb

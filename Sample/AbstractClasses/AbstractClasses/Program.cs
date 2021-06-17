@@ -11,15 +11,17 @@ namespace AbstractClasses
         static void Main(string[] args)
         {
             //instantiate classes
-            IQuittable employee1 = new Employee();
-            IQuittable employee2 = new Employee();
-            IQuittable person = new Person();
+            //IQuittable employee1 = new Employee();
+            //IQuittable employee2 = new Employee();
+            //IQuittable person = new Person();
 
             //calling on object method
-            employee1.Quit();
-            employee2.Quit();
 
-            //call on 'override method '==' amd print'
+            int employee1 = 2021;
+            int employee2 = 2021;
+
+
+            //call on 'override method '==' and print'
             if (employee1 == employee2)
             {
                 Console.WriteLine("EMPLOYEE ID'S ARE EQUAL");
