@@ -11,6 +11,7 @@ namespace AbstractClasses
         //define properties
         public string fName { get; set; }
         public string lName { get; set; }
+        
 
         //create method
         public virtual void SayName()
@@ -23,6 +24,10 @@ namespace AbstractClasses
         {
             Console.WriteLine("Person has quit.");
         }
+
+
         
+
+
     }
 }
