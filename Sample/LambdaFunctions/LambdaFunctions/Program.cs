@@ -47,34 +47,16 @@ namespace LambdaFunctions
             }
 
             //list of joes2
-            List<Employee> joesList = new List<Employee>();
-
-            foreach (Employee j in employee.Where(x => x.fName == "Joe"))
-            {
-                joesList.Add(j);
-            }
-            
+            List<Employee> joesList = employee.Where(x => x.fName == "Joe").ToList();
+            joesList.ForEach(n => Console.WriteLine(n.fName + " " + n.lName + " " + n.empID));
             Console.WriteLine(joesList.Count());
 
-            foreach(Employee joe in joesList)
-            {
-                Console.WriteLine(joe.fName + " " + joe.lName + " " + joe.empID);
-            }
-
             //list of empID's over 5
-            List<Employee> higherClearance = new List<Employee>();
-
-            foreach (Employee j in employee.Where(x => x.empID > 5))
-            {
-                higherClearance.Add(j);
-            }
-
+            //list of joes2
+            List<Employee> higherClearance = employee.Where(x => x.empID > 5).ToList();
+            higherClearance.ForEach(n => Console.WriteLine(n.fName + " " + n.lName + " " + n.empID));
             Console.WriteLine(higherClearance.Count());
 
-            foreach (Employee ID in higherClearance)
-            {
-                Console.WriteLine(ID.fName + " " + ID.lName + " " + ID.empID);
-            }
 
 
             Console.Read();
