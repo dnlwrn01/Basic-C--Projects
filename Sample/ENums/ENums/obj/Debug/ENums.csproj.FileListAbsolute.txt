@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\bin\Debug\ENums.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\bin\Debug\ENums.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\bin\Debug\ENums.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\obj\Debug\ENums.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\obj\Debug\ENums.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\obj\Debug\ENums.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\ENums\ENums\obj\Debug\ENums.pdb

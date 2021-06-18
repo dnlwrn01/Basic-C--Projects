@@ -13,7 +13,8 @@ namespace TwentyOne
             //Player<Card> player = new Player<Card>();
             //player.Hand = new List<Card>();
 
-
+            
+            
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -28,7 +29,17 @@ namespace TwentyOne
             Console.WriteLine(deck.Cards.Count);
             Console.Read();
         }
-
+        //enum
+        //public enum daysOfTheWeek
+        //{
+        //    Monday,
+        //    Tuesday,
+        //    Wednesday,
+        //    Thursday,
+        //    Friday,
+        //    Saturday,
+        //    Sunday
+        //}
 
 
         //public static Deck Shuffle(Deck deck, int times)
