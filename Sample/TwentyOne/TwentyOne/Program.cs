@@ -17,17 +17,20 @@ namespace TwentyOne
             
 
             Deck deck = new Deck();
-            deck.Shuffle(3);
+            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+
+            //deck.Shuffle(3);
 
             //deck = Shuffle(deck, 10);
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
 
-            Console.WriteLine(deck.Cards.Count);
-            Console.Read();
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.Read();
         }
         //enum
         //public enum daysOfTheWeek

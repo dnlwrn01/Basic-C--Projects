@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\bin\Debug\LambdaFunctions.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LambdaFunctions\LambdaFunctions\obj\Debug\LambdaFunctions.pdb

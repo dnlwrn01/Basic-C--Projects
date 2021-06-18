@@ -33,8 +33,6 @@ namespace ENums
             
         }
 
-
-
         public enum DaysOfTheWeek
         {
             Monday,
@@ -45,8 +43,6 @@ namespace ENums
             Saturday,
             Sunday
         }
-
-
 
     }
 }
