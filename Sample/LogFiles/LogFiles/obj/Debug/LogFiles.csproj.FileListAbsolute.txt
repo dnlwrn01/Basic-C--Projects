@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\bin\Debug\LogFiles.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\bin\Debug\LogFiles.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\bin\Debug\LogFiles.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\obj\Debug\LogFiles.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\obj\Debug\LogFiles.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\obj\Debug\LogFiles.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\LogFiles\LogFiles\obj\Debug\LogFiles.pdb

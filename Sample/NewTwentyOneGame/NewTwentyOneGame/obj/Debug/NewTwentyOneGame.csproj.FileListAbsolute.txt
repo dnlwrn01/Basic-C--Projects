@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\obj\Debug\NewTwentyOneGame.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\obj\Debug\NewTwentyOneGame.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\bin\Debug\NewTwentyOneGame.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\bin\Debug\NewTwentyOneGame.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\bin\Debug\NewTwentyOneGame.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\obj\Debug\NewTwentyOneGame.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\NewTwentyOneGame\obj\Debug\NewTwentyOneGame.pdb
