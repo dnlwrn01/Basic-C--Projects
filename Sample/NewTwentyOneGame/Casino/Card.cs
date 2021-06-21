@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NewTwentyOneGame
+namespace Casino
 {
-    public class Card
+    public struct Card
     {
         public Suit Suit { get; set; }
         public Face Face { get; set; }

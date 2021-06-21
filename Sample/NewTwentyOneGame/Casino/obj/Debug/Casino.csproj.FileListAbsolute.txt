@@ -1,0 +1,6 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\Casino\bin\Debug\Casino.dll
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\Casino\bin\Debug\Casino.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\Casino\obj\Debug\Casino.dll
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\NewTwentyOneGame\Casino\obj\Debug\Casino.pdb

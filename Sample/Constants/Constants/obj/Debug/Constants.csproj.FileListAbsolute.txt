@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\bin\Debug\Constants.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\bin\Debug\Constants.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\bin\Debug\Constants.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\obj\Debug\Constants.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\obj\Debug\Constants.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\Constants\Constants\obj\Debug\Constants.pdb
