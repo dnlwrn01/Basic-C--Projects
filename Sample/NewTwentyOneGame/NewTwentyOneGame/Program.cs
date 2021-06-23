@@ -16,8 +16,17 @@ namespace TwentyOne
 
             Console.WriteLine("Welcome to the Casino. Let's start with you name: ");
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money do you have with you?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+
+            bool validAnswer = false;
+            int bank = 0;
+            while (! validAnswer)
+            {
+                Console.WriteLine("And how much money do you have with you?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+            }
+
+
             Console.WriteLine($"Hello, {playerName}. Would you like to join a game of 21?");
             string answer = Console.ReadLine().ToLower();
 

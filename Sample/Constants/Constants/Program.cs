@@ -10,19 +10,24 @@ namespace Constants
     {
         static void Main(string[] args)
         {
-            //this is a constant
-            const string comanyName = "FoodTrucks R-US";
+            //variable declaration
+            const string companyName = " "; 
+            string admin = "";  //try setting to 'y', 'n', 'or leave blank'
 
-            //this is a var
-            var user = "admin";
+            //instantiate the Person class and pass in args
+            Person person = new Person(companyName, admin);
 
-            //constructor
+            //display results
+            Console.WriteLine(person.CompanyName);
+            Console.WriteLine(person.Admin);
 
-
-
-
-
-
+            
+            Console.Read();
         }
+
+
+        
+
+        
     }
 }

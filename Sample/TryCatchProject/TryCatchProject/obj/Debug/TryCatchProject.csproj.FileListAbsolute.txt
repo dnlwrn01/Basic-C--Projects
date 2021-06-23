@@ -1,0 +1,7 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\bin\Debug\TryCatchProject.exe.config
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\bin\Debug\TryCatchProject.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\bin\Debug\TryCatchProject.pdb
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\obj\Debug\TryCatchProject.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\obj\Debug\TryCatchProject.csproj.CoreCompileInputs.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\obj\Debug\TryCatchProject.exe
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\TryCatchProject\TryCatchProject\obj\Debug\TryCatchProject.pdb
