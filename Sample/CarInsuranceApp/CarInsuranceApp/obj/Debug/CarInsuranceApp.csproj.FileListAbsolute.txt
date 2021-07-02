@@ -1,0 +1,2 @@
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\CarInsuranceApp\CarInsuranceApp\obj\Debug\CarInsuranceApp.csproj.AssemblyReference.cache
+C:\Users\dnlwr\Desktop\Python\Basic-C--Projects\Sample\CarInsuranceApp\CarInsuranceApp\obj\Debug\CarInsuranceApp.csproj.CoreCompileInputs.cache
